@@ -1,3 +1,3 @@
-#Hi 
-#These are simple games for you to enjoy
+Hi 
+These are simple games for you to enjoy
 
